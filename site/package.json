@@ -32,7 +32,7 @@
     "gatsby-react-router-scroll": "^2.0.2",
     "gatsby-source-filesystem": "^2.2.5",
     "gatsby-transformer-yaml": "^2.1.12",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "node-sass": "^4.14.1",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
